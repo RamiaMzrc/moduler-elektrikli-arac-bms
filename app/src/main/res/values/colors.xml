@@ -1,0 +1,8 @@
+<resources>
+    <color name="ev_black">#101419</color>
+    <color name="ev_panel">#CC151A20</color>
+    <color name="ev_line">#5AFFFFFF</color>
+    <color name="ev_green">#67E48E</color>
+    <color name="ev_blue">#63B8FF</color>
+    <color name="ev_text">#F4F7FA</color>
+</resources>

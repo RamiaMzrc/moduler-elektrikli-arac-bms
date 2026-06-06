@@ -1,0 +1,11 @@
+<resources>
+    <style name="Theme.EVLogin" parent="@android:style/Theme.Material.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:navigationBarColor">@color/ev_black</item>
+        <item name="android:colorAccent">@color/ev_green</item>
+    </style>
+</resources>
