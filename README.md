@@ -1,4 +1,4 @@
-# EV Login Activity Project
+# EKRAN 1: Login Activity Project
 
 Bu proje, referans gorseldeki elektrikli arac/batarya kokpiti temasini Android Login Activity olarak uygular.
 
