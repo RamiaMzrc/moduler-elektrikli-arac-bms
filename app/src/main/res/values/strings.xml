@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">Modüler EV Login</string>
+    <string name="app_name">ModulerElektrikliAracBataryaApp</string>
+    <string name="login_title">Giriş Ekranı</string>
+    <string name="login_subtitle">Modüler Elektrikli Araç ve Enerji Depolama Sistemi</string>
+    <string name="username_hint">Kullanıcı adı</string>
+    <string name="password_hint">Şifre</string>
+    <string name="login_btn">Giriş Yap</string>
+    <string name="login_error">Hatalı Giriş! Yetkisiz Erişim.</string>
 </resources>
