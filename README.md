@@ -1,6 +1,11 @@
-# EKRAN 1: Login Activity Project
+# MODÜLER ELEKTRİKLİ ARAÇ VE ENERJİ DEPOLAMA ÜNİTESİ SİSTEMİ
 
-Bu proje, referans gorseldeki elektrikli arac/batarya kokpiti temasini Android Login Activity olarak uygular.
+Bu proje, Artan enerji talebi, fosil yakıtların çevresel etkileri ve sürdürülebilirlik gereksinimleri, ulaşım sektöründe elektrikli araçlara yönelik dönüşümü hızlandırmaktadır. Elektrikli araçlar düşük emisyon ve yüksek enerji verimliliği avantajlarına sahip olmakla birlikte, menzil kaygısı, uzun şarj süreleri ve yetersiz şarj altyapısı gibi sorunlar yaygın kullanımın önünde önemli engeller oluşturmaktadır. Özellikle gelişmekte olan ülkelerde bu altyapı eksiklikleri daha belirgin hâle gelmekte ve kullanıcı deneyimini olumsuz etkilemektedir. Bu durum, mevcut şarj paradigmasına alternatif çözümlerin geliştirilmesini gerekli kılmaktadır.
+
+Bu çalışma, söz konusu problemlere çözüm olarak modüler ve değiştirilebilir batarya sistemlerini ele almaktadır. Önerilen yaklaşımda batarya, araçtan bağımsız bir bileşen olarak değerlendirilmekte ve enerji dolumu, batarya değişimi yoluyla kısa sürede gerçekleştirilmektedir. Bu doğrultuda araştırmanın temel amacı; modüler batarya mimarisine sahip bir elektrikli araç konsepti ile bu sistemi destekleyen batarya değişim istasyonu tasarımını bütüncül bir yaklaşımla geliştirmektir. Çalışma kapsamında araç şasisi ve batarya kasasının mekanik entegrasyonu, Batarya Yönetim Sistemi (BMS), araç-istasyon iletişim altyapısı, istasyon tasarımı ve kullanıcı etkileşimi gibi temel bileşenler ele alınmaktadır. Ayrıca sistemin uygulanabilirliğini değerlendirmek amacıyla ekonomik fizibilite, yaşam döngüsü maliyeti ve güvenlik kriterleri de analiz edilmektedir.
+
+Türkiye özelinde elektrikli araç kullanımının artırılmasına yönelik politikalar ve yerli üretim girişimleri, şarj altyapısının geliştirilmesini kritik bir gereklilik hâline getirmiştir. Bu bağlamda batarya değişim sistemleri, özellikle ticari araçlar ve yoğun kullanım senaryolarında hızlı enerji erişimi sağlayarak önemli avantajlar sunmaktadır. Bu çalışma, mühendislik, yazılım ve tasarım disiplinlerini bir araya getiren bütünleşik bir sistem önerisi sunarak literatüre katkı sağlamayı ve elektrikli araç ekosisteminde karşılaşılan temel sorunlara uygulanabilir bir çözüm geliştirmeyi amaçlamaktadır.
+
 
 ## Ekranlar
 
@@ -16,13 +21,3 @@ Bu proje, referans gorseldeki elektrikli arac/batarya kokpiti temasini Android L
 - Sifre: `123456`
 
 Kayit ekranindan yeni kullanici olusturdugunuzda uygulama bu bilgilerle giris yapar.
-
-## Android Studio'da acma
-
-1. Android Studio'yu acin.
-2. `Open` secenegi ile bu klasoru secin: `EVLoginActivityProject`.
-3. Gradle sync tamamlaninca uygulamayi emulator veya cihaza calistirin.
-
-## Derleme
-
-Bu proje `gradlew.bat assembleDebug` ile derlenmistir. Android Studio icinde `Run` veya `Build > Make Project` kullanabilirsiniz.
